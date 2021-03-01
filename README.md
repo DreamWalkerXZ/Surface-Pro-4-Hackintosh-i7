@@ -19,4 +19,5 @@ Perfect on Big Sur with OpenCore 0.6.6
 ## Credits
 1. [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 2. bigsadan's [EFI](https://github.com/bigsadan/surface-pro-4-hackintosh) (This repository is heavily based on it)
-3. All other great developers who made this repository possible
+3. Shuxianger's [i7 gpu fix](https://github.com/bigsadan/surface-pro-4-hackintosh/issues/110)
+4. All other great developers who made this repository possible
